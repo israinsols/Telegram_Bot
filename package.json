@@ -1,0 +1,13 @@
+{
+  "name": "professor-telegram-bot",
+  "version": "1.0.0",
+  "description": "The Professor's Telegram Ticket Bot",
+  "main": "telegram_bot.js",
+  "scripts": {
+    "start": "node telegram_bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.0.0"
+  }
+}
